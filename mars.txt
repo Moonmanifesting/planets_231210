@@ -1,0 +1,8 @@
+hi I am Mars! I am red and red is m favourite colour!
+
+<<<<<<< HEAD
+I am also small, but I am home to the tallest mountain in the Solar System.
+
+I am also very cold
+=======
+>>>>>>> parent of 3380582 (Add concerns about effects of Mars' moons on Wolfman)
